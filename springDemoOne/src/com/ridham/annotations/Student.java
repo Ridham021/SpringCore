@@ -5,14 +5,15 @@ import org.springframework.stereotype.Component;
 @Component("student1")
 public class Student {
 	
-	private int id;
-	private String student;
-
+//	private int id;
+//	private String student;
 	
 	public Student() {
 		//super();
-		this.id = 2;
-		this.student = "Ridham";
+//		this.id = 2;
+//		this.student = "Ridham";
+		
+		System.out.println("Ridham");
 	}
 
 
@@ -22,11 +23,11 @@ public class Student {
 	 * public void setId(int id) { this.id = id; }
 	 */
 	
-	public void displayInfo() {
-		
-		System.out.println("Student name : "+student+" id is : "+id);
-		
-	}
+//	public void displayInfo() {
+//		
+//		System.out.println("Student name : "+student+" id is : "+id);
+//		
+//	}
 	
 	
 
