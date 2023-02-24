@@ -1,0 +1,10 @@
+package com.ridham.diObject;
+
+public class MathCheat {
+	
+	public void displayInfo() {
+		System.out.println("This is mathceat");
+	}
+	
+
+}

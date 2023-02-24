@@ -1,0 +1,13 @@
+Injection
+-------------------------
+
+1. Setter injection
+---------------------------
+<bean id="student" class="com.ridham.di.Student">
+ 	<property name="student" value="Ridham Shingala"></property>
+ 	</bean>
+ 	
+
+ 
+2. Constructor Injection
+---------------------------
