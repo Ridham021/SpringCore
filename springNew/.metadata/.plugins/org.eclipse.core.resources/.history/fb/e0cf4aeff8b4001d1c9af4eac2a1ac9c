@@ -21,7 +21,6 @@ public class Main
 		Student ridham = (Student) context.getBean("student");
     	ridham.displayInfo();
     	
-    	
         
     }
 }
