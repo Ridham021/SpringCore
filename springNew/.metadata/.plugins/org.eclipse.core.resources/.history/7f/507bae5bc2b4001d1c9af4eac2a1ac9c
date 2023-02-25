@@ -1,0 +1,5 @@
+package com.ridham.annotate;
+
+public class Student {
+
+}

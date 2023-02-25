@@ -1,0 +1,22 @@
+package com.java.annotation;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+/**
+ * Hello world!
+ *
+ */
+public class Main 
+{
+    public static void main( String[] args )
+    {
+    
+    	ClassPathXmlApplicationContext context = 
+				new ClassPathXmlApplicationContext("beans.xml");
+		
+		Student ridham = (Student) context.getBean("student");
+    	
+    	
+        System.out.println( "Hello World!" );
+    }
+}

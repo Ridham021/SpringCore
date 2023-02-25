@@ -1,0 +1,5 @@
+package com.ridham.autowired;
+
+public class ConfigClass {
+
+}

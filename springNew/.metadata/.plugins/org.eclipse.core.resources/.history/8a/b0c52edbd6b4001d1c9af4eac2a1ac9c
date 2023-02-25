@@ -1,0 +1,49 @@
+package com.ridham.autowired;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+
+public class Human {
+
+	private Heart heart;
+	private String name;
+	private int noOfHearts;
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getNoOfHearts() {
+		return noOfHearts;
+	}
+
+	public void setNoOfHearts(int noOfHearts) {
+		this.noOfHearts = noOfHearts;
+	}
+
+
+
+	
+
+	
+	public Human(Heart heart) {
+		this.heart=heart;
+	}
+	
+	@Autowired
+	@Qualifier("humanHeart")
+	public void setHeart(Heart heart) {
+		this.heart = heart;
+	}
+
+
+	public void StartPumping() {
+		
+		heart.pump();
+	}
+	
+
+}
