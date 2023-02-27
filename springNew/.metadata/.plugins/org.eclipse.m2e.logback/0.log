@@ -539,3 +539,330 @@
 2023-02-25 16:11:17,819 [Worker-98: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/main/resources
 2023-02-25 16:11:17,821 [Worker-98: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-02-25 16:11:17,821 [Worker-98: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/test/resources
+2023-02-25 16:17:16,583 [Worker-97: Launching Executing install in _home_ridham_SpringCourse_springNew_annotationDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/ridham/SpringCourse/springNew/annotationDemo":
+2023-02-25 16:17:16,583 [Worker-97: Launching Executing install in _home_ridham_SpringCourse_springNew_annotationDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-02-25 16:17:19,556 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:17:19,556 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/main/resources
+2023-02-25 16:17:19,556 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:17:19,556 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/test/resources
+2023-02-25 16:21:26,098 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-02-25 16:21:33,493 [Worker-103: Launching Executing clean in _home_ridham_SpringCourse_springNew_annotationDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/ridham/SpringCourse/springNew/annotationDemo":
+2023-02-25 16:21:33,494 [Worker-103: Launching Executing clean in _home_ridham_SpringCourse_springNew_annotationDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-02-25 16:21:47,203 [Worker-101: Launching Executing install in _home_ridham_SpringCourse_springNew_annotationDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/ridham/SpringCourse/springNew/annotationDemo":
+2023-02-25 16:21:47,204 [Worker-101: Launching Executing install in _home_ridham_SpringCourse_springNew_annotationDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-02-25 16:21:50,203 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:21:50,203 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/main/resources
+2023-02-25 16:21:50,204 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:21:50,204 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/test/resources
+2023-02-25 16:23:09,721 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-25 16:24:24,074 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [600])
+2023-02-25 16:24:24,082 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2023-02-25 16:24:24,083 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2023-02-25 16:24:24,084 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2023-02-25 16:24:24,085 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2023-02-25 16:24:24,085 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2023-02-25 16:24:24,086 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2023-02-25 16:24:24,086 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2023-02-25 16:24:24,086 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2023-02-25 16:24:24,087 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2023-02-25 16:24:24,088 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [10])
+2023-02-25 16:24:24,090 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2023-02-25 16:24:24,090 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [910])
+2023-02-25 16:24:24,091 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/slf4j.api_1.7.36.jar
+2023-02-25 16:24:24,091 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [32])
+2023-02-25 16:24:24,092 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2023-02-25 16:24:24,092 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [30])
+2023-02-25 16:24:24,098 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /opt/eclipse/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2023-02-25 16:24:24,100 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/tmp/m2e-archetypeGenerator6078700172063265972":
+2023-02-25 16:24:24,105 [Worker-14: Launching mavenrun-2977648a-7c36-4aa2-9c15-1b2f79fc7500] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.java.mvcdemo -DartifactId=springMVCDemo -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.mvcdemo.springMVCDemo -DoutputDirectory=/home/ridham/SpringCourse/SpringMVC -Dstyle.color=always -U archetype:generate
+2023-02-25 16:24:41,239 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ridham/SpringCourse/SpringMVC/springMVCDemo/pom.xml
+2023-02-25 16:24:41,902 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.mvcdemo:springMVCDemo:0.0.1-SNAPSHOT @ /home/ridham/SpringCourse/SpringMVC/springMVCDemo/pom.xml.
+2023-02-25 16:24:42,311 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springMVCDemo/src/main/java
+2023-02-25 16:24:42,313 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springMVCDemo/src/test/java
+2023-02-25 16:24:42,359 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-02-25 16:24:43,007 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:24:43,007 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:24:43,010 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:24:43,011 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:25:21,855 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.mvcdemo:springMVCDemo:0.0.1-SNAPSHOT @ /home/ridham/SpringCourse/SpringMVC/springMVCDemo/pom.xml.
+2023-02-25 16:25:21,967 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:25:21,967 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:25:21,970 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:25:21,970 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:25:23,208 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:25:23,208 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:25:23,210 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:25:23,211 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:26:17,855 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:17,856 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:26:17,858 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:17,858 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:26:28,328 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:28,328 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/main/resources
+2023-02-25 16:26:28,330 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:28,330 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/springNew/annotationDemo/src/test/resources
+2023-02-25 16:26:28,348 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:28,348 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:26:28,350 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:28,350 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:26:47,546 [Worker-2: Launching Executing clean in _home_ridham_SpringCourse_SpringMVC_springMVCDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/ridham/SpringCourse/SpringMVC/springMVCDemo":
+2023-02-25 16:26:47,546 [Worker-2: Launching Executing clean in _home_ridham_SpringCourse_SpringMVC_springMVCDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-02-25 16:26:49,384 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:49,384 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:26:49,386 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:26:49,386 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:26:56,760 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-02-25 16:27:04,175 [Worker-2: Launching Executing install in _home_ridham_SpringCourse_SpringMVC_springMVCDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/ridham/SpringCourse/SpringMVC/springMVCDemo":
+2023-02-25 16:27:04,175 [Worker-2: Launching Executing install in _home_ridham_SpringCourse_SpringMVC_springMVCDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-02-25 16:27:06,804 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:27:06,804 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:27:06,806 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:27:06,806 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:28:04,450 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.mvcdemo:springMVCDemo:0.0.1-SNAPSHOT @ /home/ridham/SpringCourse/SpringMVC/springMVCDemo/pom.xml.
+2023-02-25 16:28:04,490 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:28:04,490 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:28:04,494 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:28:04,494 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:28:10,897 [Worker-3: Launching Executing install in _home_ridham_SpringCourse_SpringMVC_springMVCDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/ridham/SpringCourse/SpringMVC/springMVCDemo":
+2023-02-25 16:28:10,907 [Worker-3: Launching Executing install in _home_ridham_SpringCourse_SpringMVC_springMVCDemo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-02-25 16:28:14,743 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:28:14,743 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/main/resources
+2023-02-25 16:28:14,745 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-25 16:28:14,746 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ridham/SpringCourse/SpringMVC/springMVCDemo/src/test/resources
+2023-02-25 16:28:51,983 [Worker-15: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main (1) references closed project annotationDemo
+org.eclipse.core.runtime.CoreException: Launch configuration Main (1) references closed project annotationDemo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:28:51,985 [Worker-15: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main (1) references closed project annotationDemo
+org.eclipse.core.runtime.CoreException: Launch configuration Main (1) references closed project annotationDemo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:28:51,988 [Worker-15: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main (1) references closed project annotationDemo
+org.eclipse.core.runtime.CoreException: Launch configuration Main (1) references closed project annotationDemo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:28:51,988 [Worker-15: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references closed project annotationDemo
+org.eclipse.core.runtime.CoreException: Launch configuration Main references closed project annotationDemo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:28:51,989 [Worker-15: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references closed project annotationDemo
+org.eclipse.core.runtime.CoreException: Launch configuration Main references closed project annotationDemo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:28:51,991 [Worker-15: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references closed project annotationDemo
+org.eclipse.core.runtime.CoreException: Launch configuration Main references closed project annotationDemo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:29:42,859 [Worker-2: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springMVCDemo.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springMVCDemo.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:29:42,860 [Worker-2: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springMVCDemo.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springMVCDemo.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-02-25 16:29:42,862 [Worker-2: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springMVCDemo.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springMVCDemo.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
